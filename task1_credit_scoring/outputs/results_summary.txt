@@ -1,0 +1,8 @@
+Dataset source: synthetic demonstration dataset
+
+              Model  Accuracy  Precision   Recall       F1  ROC-AUC
+      Random Forest     0.561   0.558091 0.543434 0.550665 0.572641
+Logistic Regression     0.550   0.544732 0.553535 0.549098 0.567145
+      Decision Tree     0.543   0.535849 0.573737 0.554146 0.561790
+
+Best model by ROC-AUC: Random Forest

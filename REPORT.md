@@ -2,11 +2,11 @@
 
 ## Tasks 1 and 3
 
-**Student Name:** __________________________  
-**Roll Number:** __________________________  
-**Department:** ____________________________  
-**Course:** ________________________________  
-**Academic Year:** _________________________  
+**Student Name:** _Shreya Chel _________________________  
+**Roll Number:** __BUR/MCS/2024/018 _ _______________________  
+**Department:** ____COMPUTER SCIENCE ________________________  
+**Course:** __M.SC IN COMPUTER SCIENCE ______________________________  
+**Academic Year:** __2024-26 _______________________  
 
 ---
 
@@ -162,13 +162,13 @@ Paste the actual output below:
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---:|---:|---:|---:|---:|
-| Logistic Regression | | | | | |
-| Decision Tree | | | | | |
-| Random Forest | | | | | |
+| Logistic Regression | 0.550 | 0.5447 | 0.5534 | 0.5491 | 0.5671 |
+| Decision Tree | 0.543 | 0.5358 | 0.5737 | 0.5541 | 0.5618 |
+| Random Forest | 0.561| 0.5581 | 0.5434 | 0.5507 | 0.5726 |
 
 ### Best model
 
-**Best model according to ROC-AUC:** __________________
+**Best model according to ROC-AUC:** ___Random Forest (ROC-AUC: 0.5726) _______________
 
 ### Discussion
 
@@ -254,9 +254,9 @@ python task3_handwritten_recognition/handwritten_cnn.py
 
 Paste the generated test result here:
 
-**Test loss:** __________________
+**Test loss:** ___0.0310 _______________
 
-**Test accuracy:** __________________
+**Test accuracy:** ____98.94% ______________
 
 The script also produces:
 
